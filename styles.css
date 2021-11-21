@@ -1,0 +1,18 @@
+.user-form {
+    padding: 5px;
+    border: 2px solid rgb(112, 112, 112);
+    border-radius: 5px;
+}
+
+.form-btn {
+    padding: 5px;
+    cursor: pointer;
+    background-color: rgb(39, 214, 48);
+    border: 2px solid rgb(112, 112, 112);
+    border-radius: 5px;
+    width: 100px;
+}
+
+.form-btn:hover {
+    background-color: rgb(7, 248, 19);
+}

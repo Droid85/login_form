@@ -1,5 +1,5 @@
 const ENVIRONMENT = {
     USERS: {
-        getUsers: 'users/',
+        getUsers: 'users/',//this for test
     }
 }
